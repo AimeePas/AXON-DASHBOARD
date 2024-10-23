@@ -10,7 +10,7 @@
 ## Project Overview
 The **Axon Sales Dashboard 2024** is an advanced Excel tool designed to monitor and analyze sales performance across various regions. It provides in-depth insights into **sales**, **profit**, and **customer metrics**, enabling users to assess performance against quarterly targets for specific regions, months, and quarterly slices.
 
-<img width="1046" alt="Dashboard overview" src="https://github.com/user-attachments/assets/3e5c9e2b-9670-4969-8a92-388eded65728">
+<img width="1044" alt="Dashboard overview" src="https://github.com/user-attachments/assets/f60a078a-cd38-4b2c-9bfb-87e2a1556354">
 
 
 This dashboard effectively tracks sales and profit metrics for each slicer utilized, ensuring comprehensive visibility into the business performance.
